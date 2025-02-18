@@ -1,0 +1,3 @@
+	move: 1 InDir: #north .	
+	put: c ofType: #chips .
+	goto: 3 with: 3 .
