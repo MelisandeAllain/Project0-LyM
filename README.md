@@ -8,6 +8,10 @@ Hello, Here is the project for my parser. I apologise for speaking in English as
 The parser is coded in Python. 
 To compile: 
 
+- clone the repository:
+   git clone https://github.com/MelisandeAllain/Project0-LyM.git
+
+
 - unzip the file "parser" and open it in a Python compiler
  
 - Open a terminal and go to the folder parser  >>cd parser
